@@ -1,4 +1,4 @@
-> Our youtube channel
+__Our youtube channel__
 ====
 
 This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
