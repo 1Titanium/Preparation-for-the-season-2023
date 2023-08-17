@@ -1,4 +1,4 @@
-# __Team's photos__
+# **Team's photos**
 __________
 
 
