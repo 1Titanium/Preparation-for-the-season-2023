@@ -4,8 +4,10 @@
   1. Плата Makeblock Ranger (Auriga) 
   2. Моторы из Makeblock Ranger (2 штуки)
      1. Провода для подключение платы
+  
   3. Ултразвуковые датчики из набора Ultimate 2.0 (3 штуки)
      1. Провода для подключение платы
+      
   4. Smart camera Add-on Pack (MakeBlock)
      1. Акумулятор для Smart Camera
      2. Провод для питание
