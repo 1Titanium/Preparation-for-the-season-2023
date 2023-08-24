@@ -7,3 +7,4 @@ Vehicle's photos
 ![1692879204195](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/2b461ba0-20b1-478f-8b09-c4d4e8e5ec55)
 ![1692879204181](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/d321e203-3731-4bda-8912-a8e8fcbb99a5)
 ![1692879204142](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/7c63f309-b863-48eb-bdf5-c74c39ca0849)
+![1692879204142](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/e49f2c31-934e-4874-b169-e2837b43a934)
