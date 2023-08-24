@@ -1,10 +1,8 @@
 Vehicle's photos
 ====
 
-![1692177308283](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/46500557-0918-44c8-b113-9bec80246ab5)
-![1692177308321](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/c2dba324-b571-4d79-96da-70cf27bc5515)
-![1692177308312](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/f7bd5fe9-777f-4078-9ec5-387d6e8bb4e5)
-![1692177308292](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/489ca6a5-91df-4e0c-a979-8dbf60e39655)
-![1692177308274](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/c09375d2-2676-4132-b140-31253c1b4a56)
-![1692177308330](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/7a3d7cd2-b72e-4bec-8569-728a5de274b4)
-![1692177308302](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/78d19e8f-d82a-4e56-823d-a2efedcb7ea5)
+![1692879204210](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/3f1fa474-bf43-4632-af5c-a236d38b5f32)
+![1692879204155](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/6b1fb27c-aa5f-431c-ac09-682a7285e249)
+![1692879204170](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/0d85227e-1591-4e14-92d2-4bbd0e079bc9)
+![1692879204195](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/2b461ba0-20b1-478f-8b09-c4d4e8e5ec55)
+![1692879204181](https://github.com/1Titanium/Preparation-for-the-season-2023/assets/141386214/d321e203-3731-4bda-8912-a8e8fcbb99a5)
